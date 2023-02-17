@@ -1,12 +1,11 @@
-# Xavier Besnard <xavier.besnard@neuf.fr>, 2021, 2022.
-# Xavier BESNARD <xavier.besnard]neuf.fr>, 2023.
+# Xavier BESNARD <gionmed025@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: kasts\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-02-17 00:57+0000\n"
 "PO-Revision-Date: 2023-02-13 19:05+0100\n"
-"Last-Translator: Xavier BESNARD <xavier.besnard]neuf.fr>\n"
+"Last-Translator: Xavier BESNARD <gionmed025@gmail.com>\n"
 "Language-Team: ara\n"
 "Language: ara\n"
 "MIME-Version: 1.0\n"
@@ -16,21 +15,14 @@ msgstr ""
 "X-Generator: Lokalize 22.12.2\n"
 
 #, kde-format
-msgctxt "NAME OF TRANSLATORS"
-msgid "Your names"
-msgstr "Xavier Besnard"
-
-#, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
-msgid "Your emails"
-msgstr "xavier.besnard@neuf.fr"
+msgid "gionmed025@gmail.com"
+msgstr "gionmed025@gmail.com"
 
 #: audiomanager.cpp:371
 #, kde-format
 msgid "No connection or streaming on metered connection not allowed"
 msgstr ""
-"Aucune connexion ou lecture en flux n'est autorisée sur une connexion "
-"facturée."
 
 
 #: audiomanager.cpp:505
