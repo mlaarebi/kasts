@@ -32,6 +32,7 @@ msgstr ""
 "Aucune connexion ou lecture en flux n'est autorisée sur une connexion "
 "facturée."
 
+
 #: audiomanager.cpp:505
 #, kde-format
 msgid "Invalid Media"
